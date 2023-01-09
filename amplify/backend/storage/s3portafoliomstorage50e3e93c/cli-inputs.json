@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3portafoliomstorage50e3e93c",
+  "bucketName": "portafoliom-storage-50e3e93c",
+  "policyUUID": "e059b896",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
